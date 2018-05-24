@@ -1,0 +1,24 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kb2232/Word-Guess-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kb2232/Word-Guess-Game/issues"
+  },
+  "homepage": "https://github.com/kb2232/Word-Guess-Game#readme",
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "materialize-css": "^1.0.0-rc.1"
+  }
+}
